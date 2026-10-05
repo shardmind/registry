@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "shards": {
+    "breferrari/obsidian-mind": { "repo": "breferrari/obsidian-mind" }
+  }
+}
